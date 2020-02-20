@@ -30,8 +30,11 @@ return [
 
     // =============== //
 
-    'mentionsLegales' => 'Mentions légales',
-    'CGU'             => 'CGU',
-    'CGV'             => 'CGV',
+    'mentionsLegales'           => 'Mentions légales',
+    'CGU'                       => 'CGU',
+    'CGV'                       => 'CGV',
+    'stayou_description_long'   => 'StaYou est une application et un site web qui vous met en relation avec des commerçants, des médecins et des associations "LGBT+ Friendly"
+
+
 
 ];
