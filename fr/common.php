@@ -20,12 +20,12 @@ return [
 
     // =============== //
 
-    'descriptionFeedback' => 'Un bug ? Une fautes ? Une idée ? Un question ?',
+    'descriptionFeedback' => 'Un bug ? Une faute ? Une idée ? Une question ?',
 
     // =============== //
 
-    'thank_0' => 'Merci pour votre contribution, apres verification de notre part votre ajout apparaitra sur la carte. Vous pouvez revenir à',
-    'thank_1' => 'ou ajouter de nouveaux un nouveaux',
+    'thank_0' => 'Merci pour votre contribution, après vérification de notre part votre ajout apparaitra sur la carte. Vous pouvez revenir à',
+    'thank_1' => 'ou ajouter de nouveau un nouveau',
     'thank_2' => 'ou une',
 
     // =============== //
